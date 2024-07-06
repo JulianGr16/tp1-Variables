@@ -1,2 +1,2 @@
 let suma = 2 + 2;
-document.write(suma)
+document.write(`El resultado de la suma es: ${suma}`)
